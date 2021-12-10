@@ -1,1 +1,2 @@
 # projeto-universidade-html
+Este projeto foi desenvolvido como um desafio do curso de web developer. Na atividade proposta, utilizando apenas os aprendizados em html, deveriam ser montadas 3 páginas de um site de universidade. A construção do corpo das páginas deveria ser baseada em tabelas. As imagens para a construção do site foram feitas em photoshop e disponibilizadas pelo idealizador do curso.
